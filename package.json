@@ -2,7 +2,7 @@
   "name": "clientside_logger",
   "version": "1.0.0",
   "description": "Clientside_logger to capture client side error information during runtimme",
-  "main": "index.js",
+  "main": "dist/logger.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npm start"
