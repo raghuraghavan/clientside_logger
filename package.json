@@ -1,0 +1,24 @@
+{
+  "name": "clientside_logger",
+  "version": "1.0.0",
+  "description": "Clientside_logger to capture client side error information during runtimme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/raghuraghavan/clientside_logger.git"
+  },
+  "keywords": [
+    "Client",
+    "side",
+    "logger"
+  ],
+  "author": "Raghu Raghavan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raghuraghavan/clientside_logger/issues"
+  },
+  "homepage": "https://github.com/raghuraghavan/clientside_logger#readme"
+}
